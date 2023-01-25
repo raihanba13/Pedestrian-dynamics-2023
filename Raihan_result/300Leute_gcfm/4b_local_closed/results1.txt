@@ -1,0 +1,5 @@
+[2023-01-24 11:39:32.557] [info] Usage of Crossings
+[2023-01-24 11:39:32.557] [warning] Pedestrians not evacuated [1]
+[2023-01-24 11:39:32.557] [info] Exec Time 1089.00s
+[2023-01-24 11:39:32.558] [info] Evac Time 1000.00s
+[2023-01-24 11:39:32.558] [info] Realtime Factor 0.92x

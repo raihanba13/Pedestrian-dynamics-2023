@@ -1,0 +1,6 @@
+[2023-01-24 11:12:18.500] [info] Usage of Crossings
+[2023-01-24 11:12:18.500] [info] Exec Time 1326.00s
+[2023-01-24 11:12:18.501] [info] Evac Time 109.28s
+[2023-01-24 11:12:18.501] [info] Realtime Factor 0.08x
+
+E:\CSiS_Sem3\Pedestrian Dynamics\Project\final_simulation_21Jan2023\300Leute_gcfm\4a_main_closed

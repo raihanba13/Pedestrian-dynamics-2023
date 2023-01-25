@@ -1,0 +1,9 @@
+#Simulation time: 1000.00
+#Flow at exit Spuelkueche( ID 14 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+1.7211538461538463 1 583
+3.451923076923077 2 584
+4.7019230769230775 3 585
+6.336538461538462 4 590
+
