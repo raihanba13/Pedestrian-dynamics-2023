@@ -1,0 +1,15 @@
+#Simulation time: 96.96
+#Flow at exit Buero GM( ID 21 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+1.375 1 525
+2.4166666666666665 2 524
+2.875 3 529
+3.75 4 530
+4.666666666666666 5 526
+5.375 6 527
+6.125 7 522
+7.958333333333333 8 523
+8.125 9 528
+9.625 10 521
+

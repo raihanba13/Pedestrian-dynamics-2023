@@ -1,0 +1,8 @@
+#Simulation time: 96.96
+#Flow at exit Windfang( ID 29 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+3.1666666666666665 1 502
+4.041666666666666 2 511
+5.25 3 514
+

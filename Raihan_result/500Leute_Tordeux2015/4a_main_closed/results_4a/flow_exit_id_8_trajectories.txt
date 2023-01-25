@@ -1,0 +1,12 @@
+#Simulation time: 96.96
+#Flow at exit Vorbereitung( ID 8 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+0.29166666666666663 1 1000
+1.2916666666666665 2 998
+2.1666666666666665 3 984
+2.958333333333333 4 989
+4.375 5 987
+5.458333333333333 6 990
+7.5 7 995
+

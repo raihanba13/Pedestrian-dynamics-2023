@@ -1,0 +1,15 @@
+#Simulation time: 96.96
+#Flow at exit Kuehlraum-Lager( ID 11 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+3.125 1 525
+4.75 2 529
+6 3 524
+7.083333333333333 4 530
+8.291666666666666 5 527
+9.541666666666666 6 526
+10.625 7 522
+11.375 8 523
+12.583333333333332 9 528
+13.5 10 521
+

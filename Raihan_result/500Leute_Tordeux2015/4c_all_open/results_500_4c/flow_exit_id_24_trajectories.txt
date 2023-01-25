@@ -1,0 +1,6 @@
+#Simulation time: 78.04
+#Flow at exit Treppenhaus( ID 24 )
+#Time (s), cummulative number of agents, pedestrian ID
+
+5.916666666666666 1 503
+
